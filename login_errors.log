@@ -1,0 +1,3 @@
+2025-05-14 11:03:04 | Email: admin@gmail.com | Role: admin | Reason: Incorrect security question or answer.
+2025-05-14 11:03:32 | Email: admin1@gmail.com | Role: admin | Reason: No account found with the provided email.
+2025-05-14 11:03:45 | Email: admin@gmail.com | Role: user | Reason: Incorrect role selected for this account.
