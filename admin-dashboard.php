@@ -39,7 +39,7 @@ try {
 <div class="sidebar">
     <div class="sidebar-header">
         <h3><i class="fas fa-shield-alt"></i> VAPT Tool</h3>
-    </div>
+    </div>  
     <ul class="nav flex-column">
         <li class="nav-item">
             <a class="nav-link sidebar-link" data-target="codeAnalysis"><i class="fas fa-code"></i> Code Analysis</a>
@@ -57,10 +57,14 @@ try {
             <a class="nav-link sidebar-link" data-target="report"><i class="fas fa-file-alt"></i> Reports</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" href="manage_users.php"><i class="fas fa-user-cog"></i> Manage Users</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
         </li>
     </ul>
 </div>
+
 
 
 <!-- Main Content -->
